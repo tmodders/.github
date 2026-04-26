@@ -9,5 +9,3 @@
 
 ## Community
 Development and discussions happen in our community spaces. If you have questions, feedback, or ideas, feel free to join our [Discord server](https://discord.gg/Myk3xUkhR7)!
-
----
